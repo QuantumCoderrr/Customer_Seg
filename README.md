@@ -85,7 +85,7 @@ Model Evaluation: The clustering models successfully segmented customers for tar
 ![Elbow Method](images/Elbow.png)
 
 **2. K-Means Clustering**  
-![K-Means](images/Kmeans.png)
+![K-Means](images/KMeans.png)
 
 **3. Dendrogram for Hierarchical Clustering**  
 ![Dendrogram](images/Dendrogram.png)
